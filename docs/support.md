@@ -22,6 +22,8 @@
 
 ## お問い合わせ
 
-お問い合わせは、以下のメールアドレスまでご連絡ください。
+不具合報告や改善要望は、GitHub Issuesからお知らせください。
 
-okapiron@gmail.com
+https://github.com/Okapiron/self-maintenance/issues/new
+
+投稿内容は公開されます。氏名、電話番号、住所、店舗の予約情報など、公開したくない個人情報は書き込まないでください。
